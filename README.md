@@ -25,16 +25,6 @@ I'm actively involved in contributing to the Web3 ecosystem:
 2. **DAO Governance Platform**
    - Description: Collaborated on a decentralized autonomous organization (DAO) governance platform to enhance community participation.
 
-#### Blog
-Explore my insights and thoughts on Web3 development:
-
-1. **Understanding Blockchain Consensus Mechanisms**
-   - [dev.to](google.com)
-
-2. **Building Decentralized Applications with Solidity**
-   - [google](google.com)
-
-
 #### Contact
 Let's connect! Reach out to me through:
 
@@ -45,9 +35,6 @@ Let's connect! Reach out to me through:
 #### About
 I'm driven by the vision of a decentralized future where individuals have full control over their digital lives. Let's collaborate and build the next generation of Web3 solutions together.
 
----
-
-Feel free to customize this template to better reflect your own journey and projects!
 <!---
 devcornel/devcornel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
