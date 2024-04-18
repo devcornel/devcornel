@@ -8,7 +8,7 @@ Check out some of the exciting projects I've been working on:
 
 1. **Decentralized Social Media Platform**
    - Description: A social media platform built on blockchain technology, ensuring user privacy and data ownership.
-   - [Link to Repository](github.com/devcorenl)
+   - [github](github.com/devcorenl)
 
 2. **NFT Marketplace**
    - Description: An NFT marketplace enabling creators to tokenize their digital assets and engage with a global audience.
@@ -29,18 +29,18 @@ I'm actively involved in contributing to the Web3 ecosystem:
 Explore my insights and thoughts on Web3 development:
 
 1. **Understanding Blockchain Consensus Mechanisms**
-   - [Link to Article](google.com)
+   - [dev.to](google.com)
 
 2. **Building Decentralized Applications with Solidity**
-   - [Link to Article](google.com)
+   - [google](google.com)
 
 
 #### Contact
 Let's connect! Reach out to me through:
 
-- Email: [Your Email Address](google.com)
-- GitHub: [Link to Your GitHub Profile](github.com/devcornel)
-- Twitter: [Link to Your Twitter Profile](twitter.com)
+- Email: [Email Address](google.com)
+- GitHub: [GitHub Profile](github.com/devcornel)
+- Twitter: [Twitter Profile](twitter.com)
 
 #### About
 I'm driven by the vision of a decentralized future where individuals have full control over their digital lives. Let's collaborate and build the next generation of Web3 solutions together.
